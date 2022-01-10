@@ -1,0 +1,42 @@
+.row{
+    width: 800px;
+    display: flex;
+    background-color: grey;
+    justify-content: space-evenly;
+    text-align: left;
+    
+                
+}
+
+.col{
+    height: 40px;
+    flex: 1;
+    flex-direction: column;
+    background-color: aquamarine;
+    margin: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+}
+
+.col-2{
+    height: 40px;
+    flex: 2;
+    flex-direction: column;
+    background-color: aquamarine;
+    margin: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+    
+}
+
+.col-3{
+    height: 40px;
+    flex: 3;
+    flex-direction: column;
+    background-color: aquamarine;
+    margin: 10px;
+    padding-top: 10px;
+    padding-left: 10px;
+
+}
+
